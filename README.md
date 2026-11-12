@@ -11,7 +11,7 @@ Sou desenvolvedor focado em criar soluções digitais de alta performance, alian
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" title="HTML5" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/CSS-Next/logo.css/main/css.svg" width="44" height="44" alt="CSS" title="CSS" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" title="JavaScript" />
   &nbsp;
@@ -26,7 +26,7 @@ Sou desenvolvedor focado em criar soluções digitais de alta performance, alian
   <img src="https://img.shields.io/badge/Render-252525?style=for-the-badge&amp;logo=render&amp;logoColor=white" height="30" alt="Render" title="Render" />
 </p>
 
-- **Front-end:** HTML5, CSS3, JavaScript (ES6+), React e Tailwind CSS
+- **Front-end:** HTML5, CSS, JavaScript (ES6+), React e Tailwind CSS
 - **Hospedagem sem neura & Infraestrutura:** Netlify, Firebase e Render
 - **Outras Especialidades:** Automações web, integração de APIs e prototipagem UI/UX
 
