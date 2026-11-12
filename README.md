@@ -40,20 +40,7 @@ Sou desenvolvedor focado em criar soluções digitais de alta performance, alian
   <img alt="Animação do Pac-Man percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/almirsd/almirsd/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
-<sub>Gerado com [Pac-Man Contribution Graph](https://github.com/abozanona/pacman-contribution-graph).</sub>
 
----
-
-### 📊 Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almirsd&amp;show_icons=true&amp;theme=dracula&amp;locale=pt-br&amp;hide_border=true" height="165" alt="Estatísticas públicas de Almir Muniz no GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almirsd&amp;layout=compact&amp;langs_count=6&amp;theme=dracula&amp;locale=pt-br&amp;hide_border=true" height="165" alt="Linguagens mais utilizadas nos meus repositórios públicos" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=almirsd&amp;theme=dracula&amp;locale=pt_BR&amp;hide_border=true" alt="Sequência de dias e total de contribuições no GitHub" />
-</p>
 
 ---
 
@@ -70,3 +57,16 @@ Acredito que o conhecimento verdadeiro se reflete na simplicidade da explicaçã
 - **E-mail:** [almirmunizsd@gmail.com](mailto:almirmunizsd@gmail.com)
 - **LinkedIn:** [linkedin.com/in/almirmuniz](https://www.linkedin.com/in/almirmuniz)
 - **Site:** [almirsolucoesdigitais.com.br](https://www.almirsolucoesdigitais.com.br/)
+
+---
+
+### 📊 Estatísticas no GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=almirsd&amp;theme=dracula" width="360" alt="Estatísticas públicas de Almir Muniz no GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=almirsd&amp;theme=dracula" width="360" alt="Linguagens com mais commits nos meus repositórios públicos" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=almirsd&amp;theme=dracula&amp;locale=pt_BR&amp;hide_border=true" alt="Sequência de dias e total de contribuições no GitHub" />
+</p>
